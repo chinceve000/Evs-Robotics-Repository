@@ -1,3 +1,3 @@
-# ev-s-robotics-repository
-My repository for *Robotics* class :)
+# Evs-robotics-repository
+My repository for **Robotics** class :)
 Enjoy :)
