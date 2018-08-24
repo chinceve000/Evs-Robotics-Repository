@@ -6,4 +6,5 @@ Capek was a novelist, playwright and essayist. His writing was affected by the e
 ##### Sources:
 
 https://www.britannica.com/biography/Karel-Capek
+
 https://ed.ted.com/lessons/mysteries-of-vernacular-robot-jessica-oreck-and-rachael-teel
