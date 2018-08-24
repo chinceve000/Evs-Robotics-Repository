@@ -10,3 +10,5 @@ This is my repository for **Robotics** class. Enjoy :)
 ### Important Links
 1. [Syllabus](Robotics.Syllabus.md)
 1. [Course Description](Course.Description.md)
+1. [Important People](Important.People.md)
+1. [What Is A Robot?](What.Is.A.Robot.md)
