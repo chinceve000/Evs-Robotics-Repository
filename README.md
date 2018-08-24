@@ -1,4 +1,4 @@
-# Evs-Robotics-Repository
+# Evs Robotics Repository
 This is my repository for **Robotics** class. Enjoy :)
 
 ### What I've Learned Today:
